@@ -1,5 +1,14 @@
-<h1 align="center">ASHISH SHAKYA</h1>
-<h2 align="center">PYTHON-AI/ML-AUTOMATION</h2>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=1800&pause=600&color=00D8FF&center=true&vCenter=true&repeat=true&width=520&lines=ASHISH+SHAKYA"
+  />
+</h1>
+
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=700&color=7dd3fc&center=true&vCenter=true&repeat=true&width=520&lines=PYTHON+%7C+AI%2FML+%7C+AUTOMATION"
+  />
+</h3>
 
 ---
 
