@@ -1,141 +1,112 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=90&lines=ABHINAV+TIWARY;SOFTWARE+%7C+WEB+%7C+AI+DEVELOPER" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=90&lines=ASHISH+SHAKYA;SOFTWARE+%7C+WEB+DEVELOPER" />
 </h1>
 
 <p align="center">
-Software Developer focused on building <b>end-to-end web applications</b>,  
-<b>Python-powered backends</b>, and <b>AI-driven automation systems</b>.
+Software / Web Developer focused on building <b>end-to-end applications</b> using  
+<b>Python-based backends</b>, modern web technologies, and scalable architectures.
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE @ Sharda University** (2023–Present)  
-- 💻 Software & Web Developer with strong **Python + Web** background  
-- 🤖 Working across **Automation, AI, Computer Vision & SaaS platforms**  
-- 🧩 Interested in **production-ready systems**, scalable architecture & APIs  
-- 🔁 Continuous learner in **AI, ML, and backend engineering**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
-</p>
-
-### Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-</p>
-
-### Backend & Databases
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-</p>
-
-### AI, Automation & Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-</p>
-
-</div>
+- 🎓 **B.Tech in Computer Science Engineering**  
+  Sharda University, Greater Noida (2023 – Present)
+- 💻 Software & Web Developer with hands-on academic and self-driven project experience
+- 🧠 Strong foundation in **Python backend development**, databases, and web systems
+- 🤖 Exploring **AI, automation, computer vision, and conversational systems**
+- 🚀 Focused on **clean, maintainable, production-ready code**
 
 ---
 
-## 🚀 Projects Highlights
+## 🛠️ Technical Skills
 
-- **VoiceVerse – AI Voice Assistant**  
-  Python-based assistant using Speech Recognition & Text-to-Speech APIs for task automation.
+### 🌐 Frontend
+- HTML, CSS, JavaScript  
+- Responsive layouts & form validation  
+- Dynamic UI components  
+- Basic UI/UX principles  
 
-- **Weapon Detection System**  
-  Computer vision system using Python & deep learning to detect weapons in images and video streams.
+### ⚙️ Backend
+- Python, Core Java  
+- REST-style application logic  
+- Authentication & authorization  
+- CRUD-based system design  
 
-- **ConnectAI – AI Customer Support Platform**  
-  SaaS-based support system with automated chat, FAQ handling, ticketing & AI API integration.
+### 🗄️ Databases
+- MySQL, SQLite  
+- Schema design & normalization  
+- Indexing and optimized queries  
 
-- **Library Management System**  
-  Role-based system with book issue/return, fine calculation & database persistence.
+### 🤖 AI & Automation
+- Python scripting  
+- API integration  
+- Workflow automation  
+- Basics of Machine Learning & Computer Vision  
 
-- **Job Board Web Application**  
-  Full-stack job portal for recruiters and job seekers.
+### 🧰 Tools & Platforms
+- Git, GitHub  
+- VS Code, Jupyter Notebook  
+- Android Studio  
 
-- **Stream-Based Quiz Platform**  
-  Interactive quiz app with real-time scoring and dynamic UI updates.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=050f2c&color=00d8ff&line=00d8ff&point=ffffff&area=true&hide_border=true"/>
-</div>
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=algolia&utcOffset=5.5"/>
-</div>
+### 🤝 Soft Skills
+- Problem solving & analytical thinking  
+- Communication & teamwork  
+- Adaptability & time management  
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Experience
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
-  </picture>
-</div>
+### Academic Project-Based Experience  
+**Web Developer & Python Developer**  
+*Sharda University | 2024 – Present*
+
+- Developed **full-stack academic applications** covering frontend, backend, database, and APIs  
+- Implemented **authentication systems, automation scripts, and backend business logic**  
+- Designed and integrated **MySQL & SQLite databases**  
+- Integrated **AI-based features** such as voice processing, computer vision, and intelligent responses  
+- Followed **modular coding practices**, debugging techniques, version control, and collaborative workflows  
+
+---
+
+### Independent Projects & Self-Learning (Remote)  
+**Web Developer / Python Developer | 2024 – Present**
+
+- Built **real-world inspired applications** including SaaS-style platforms and automation tools  
+- Converted functional and business requirements into **scalable technical solutions**  
+- Continuously learning **AI, ML, automation, and modern backend practices**  
+- Maintained **clean, well-documented GitHub repositories** with structured commits  
+
+---
+
+## 📜 Certifications
+
+- Web Development (HTML, CSS, JavaScript) – Data Flair (2024)  
+- Java Foundations – Oracle Academy (2024)  
+- React Mastery Workshop – GitHub Club Technova, Sharda University (2025)  
+- Cybercrime Awareness – Simplilearn SkillUp (2024)  
+
+---
+
+## 🏆 Co-Curricular Activities
+
+- Competitive coding on **LeetCode, GeeksforGeeks, and HackerRank**  
+- Participation in **Web Development, Artificial Intelligence, and Cybersecurity workshops**
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://av9.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/ashish-shakya16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-shakya2023" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Abhiii9vv_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="mailto:gyanutiwari758@gmail.com">
+  <a href="mailto:ashishrahin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -144,18 +115,7 @@ Software Developer focused on building <b>end-to-end web applications</b>,
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=00d8ff&style=flat)](https://github.com/abhiii9vvv)
-[![GitHub followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)](https://github.com/abhiii9vvv?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/abhiii9vvv?label=Stars&style=social)](https://github.com/abhiii9vvv)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Clean code always looks like it was written by someone who cares."*  
-⭐ Star my repositories if you find them helpful!
+### 💭 *"Good software is built with clarity, consistency, and care."*
 
 </div>
 
