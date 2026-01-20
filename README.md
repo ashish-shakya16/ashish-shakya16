@@ -1,4 +1,5 @@
-<h1 align="center">Ashish Shakya</h1>
+<h1 align="center">ASHISH SHAKYA</h1>
+<h2 align="center">PYTHON-AI/ML-AUTOMATION</h2>
 
 ---
 
