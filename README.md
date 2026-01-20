@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&repeat=false&width=650&height=80&lines=ASHISH+SHAKYA;SOFTWARE+%7C+WEB+DEVELOPER" />
-</h1>
+<h1 align="center">Ashish Shakya</h1>
 
 ---
 
@@ -132,7 +130,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashish-shakya16&label=Profile%20Views&color=00d8ff&style=flat)](https://github.com/ashish-shakya16)
 
-### 💭 *"Simple, readable code scales better than clever shortcuts."*
+### 💭 *"Clarity in code matters more than complexity."*
 
 </div>
 
