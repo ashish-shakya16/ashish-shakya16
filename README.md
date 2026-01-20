@@ -1,109 +1,164 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=90&lines=ABHINAV+TIWARY;SOFTWARE+%7C+WEB+%7C+AI+DEVELOPER" alt="Animated Name" />
+</h1>
+
+<p align="center">
+Software Developer focused on building <b>end-to-end web applications</b>,  
+<b>Python-powered backends</b>, and <b>AI-driven automation systems</b>.
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 **B.Tech CSE @ Sharda University** (2023–Present)  
+- 💻 Software & Web Developer with strong **Python + Web** background  
+- 🤖 Working across **Automation, AI, Computer Vision & SaaS platforms**  
+- 🧩 Interested in **production-ready systems**, scalable architecture & APIs  
+- 🔁 Continuous learner in **AI, ML, and backend engineering**
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-# 👋 Hi, I'm Ashish Shakya
-
-### 💻 Software Developer | Problem Solver | Open Source Enthusiast
-
+### Languages
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ashish-shakya16&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
 </p>
+
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+</p>
+
+### Backend & Databases
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+</p>
+
+### AI, Automation & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+</p>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 Projects Highlights
 
-🔭 Passionate about **Python, Database Management, and Algorithmic Problem-Solving**  
-🌱 Currently mastering **Advanced Python & Data Structures & Algorithms**  
-💡 Building innovative projects and contributing to **Open Source**  
-📫 Let's collaborate and create something amazing together!
+- **VoiceVerse – AI Voice Assistant**  
+  Python-based assistant using Speech Recognition & Text-to-Speech APIs for task automation.
 
----
+- **Weapon Detection System**  
+  Computer vision system using Python & deep learning to detect weapons in images and video streams.
 
-### 🛠️ Tech Stack
+- **ConnectAI – AI Customer Support Platform**  
+  SaaS-based support system with automated chat, FAQ handling, ticketing & AI API integration.
 
-**Programming Languages**
+- **Library Management System**  
+  Role-based system with book issue/return, fine calculation & database persistence.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+- **Job Board Web Application**  
+  Full-stack job portal for recruiters and job seekers.
 
-**Frontend Development**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
-**Databases & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+- **Stream-Based Quiz Platform**  
+  Interactive quiz app with real-time scoring and dynamic UI updates.
 
 ---
 
-### 📊 GitHub Statistics
+## 📈 Contribution Activity
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashish-shakya16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-shakya16&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-shakya16&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-shakya16&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=050f2c&color=00d8ff&line=00d8ff&point=ffffff&area=true&hide_border=true"/>
+</div>
 
 ---
 
-### 🏆 Competitive Programming
+## 📊 GitHub Insights
 
-<p>
-  <a href="https://www.hackerrank.com/profile/2023251275_ashi1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=algolia&utcOffset=5.5"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://av9.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/ashishshakya16/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  <a href="https://leetcode.com/u/Abhiii9vv_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="mailto:gyanutiwari758@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/ashish-shakya2023/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ashish-shakya16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=00d8ff&style=flat)](https://github.com/abhiii9vvv)
+[![GitHub followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)](https://github.com/abhiii9vvv?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/abhiii9vvv?label=Stars&style=social)](https://github.com/abhiii9vvv)
+
+</div>
 
 ---
 
-### 💭 Quote
+<div align="center">
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+### 💭 *"Clean code always looks like it was written by someone who cares."*  
+⭐ Star my repositories if you find them helpful!
 
----
+</div>
 
-<p>
-  <i>⭐️ From <a href="https://github.com/ashish-shakya16">Ashish Shakya</a> - Let's build something incredible together!</i>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
