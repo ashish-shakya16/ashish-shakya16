@@ -115,8 +115,12 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashish-shakya16/ashish-shakya16/output/github-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/ashish-shakya16/ashish-shakya16/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </div>
+
 
 ---
 
