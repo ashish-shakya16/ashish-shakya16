@@ -28,9 +28,7 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>Java
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>C
-</td>
+
 </tr>
 </table>
 
@@ -85,10 +83,14 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code
 </td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="45"/><br/>n8n
+</td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
